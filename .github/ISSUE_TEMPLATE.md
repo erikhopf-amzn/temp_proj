@@ -1,41 +1,30 @@
-<!--- Provide a general summary of the issue in the Title above -->
-## Description
+Before you create an issue, please take a look at our [Issue Reporting Guide](https://github.com/alexa/avs-device-sdk/wiki/Issue-Reporting-Guide). 
+
+## Briefly summarize your issue 
 <!--- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug -->
 
-## Expected Behavior
+## What is the expected behavior?  
 <!--- Tell us what should happen -->
 
-## Actual Behavior
-<!--- Tell us what happens instead -->
+## What behavior are you observing? 
+<!--- Tell us what's happening instead -->
 
-## Possible Fix
-<!--- Not obligatory, but suggest a fix or reason for the bug -->
-
-## Steps to Reproduce
+## Provide the steps to reproduce the issue, if applicable: 
 <!--- Provide the steps for reproduce -->
 
-## Your Environment
+## Tell us about your environment:
 <!--- Include as many relevant details about the environment you experienced the bug in -->
-#### SDK version: 
+### What version of the AVS Device SDK are you using? 
       <x.y.z> 
-#### Hardware:
-- [ ] Desktop
+### Hardware:
+- [ ] Desktop / Laptop
 - [ ] Raspberry Pi
-- [ ] Other
-#### OS (Type & version): 
+- [ ] Other - tell us more: 
+
+
+### OS (Type & version): 
 - [ ] Linux
 - [ ] MacOS 
-- [ ] Jessy 
-- [ ] Other
-
-<details>
-<summary>Heading</summary>
-<ul>
-<li> markdown list 1</li>
-<ul>
-<li> nested list 1</li>
-<li> nested list 2</li>
-</ul>
-<li> markdown list 2</li>
-</ul>
-</details>
+- [ ] Raspbian Stretch
+- [ ] Raspbian Jessy 
+- [ ] Other - tell us more: 
